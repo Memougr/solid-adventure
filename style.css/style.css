@@ -4,3 +4,9 @@ h1 {
 p {
     background-color: : grey;
 }
+
+body {
+    width: 60%;
+    text-align: center;
+}
+
